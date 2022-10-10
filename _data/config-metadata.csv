@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 material,Material,true
+measurements, Dimensions
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -14,3 +15,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+technique,Technique

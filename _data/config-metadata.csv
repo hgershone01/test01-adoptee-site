@@ -4,6 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+material,Material,true
 location,Location
 latitude,Latitude
 longitude,Longitude

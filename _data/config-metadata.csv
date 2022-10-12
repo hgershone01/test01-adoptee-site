@@ -6,6 +6,7 @@ description,Description,
 subject,Subjects,true
 material,Material,true
 measurements, Dimensions
+technique,Technique,,
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -15,4 +16,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-technique,Technique,,
+
